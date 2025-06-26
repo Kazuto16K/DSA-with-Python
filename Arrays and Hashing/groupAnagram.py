@@ -1,3 +1,9 @@
+## LeetCode Medium: Concept - Sort strings and Apply Hashmap
+
+##     KEY      ##      VALUE      ###
+#    sorted_str  ##     actual_str  ##
+#      "aet"      ##    "eat" "tea" "ate" ##
+
 class Solution(object):
     def groupAnagrams(self, strs):
         """
