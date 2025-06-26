@@ -1,4 +1,4 @@
-## LeetCode Easy
+## LeetCode Easy - Concept : Hashing
 
 class Solution(object):
     def containsDuplicate(self, nums):
